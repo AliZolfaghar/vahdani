@@ -8661,7 +8661,7 @@ input[type=submit] {
 
 .bg2{
   height: 100vh;
-  background: url('/img/2.webp');
+  background: url('2.webp');
   background-repeat: no-repeat;
   background-size: cover ;
 }
